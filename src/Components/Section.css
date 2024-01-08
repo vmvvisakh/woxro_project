@@ -1,0 +1,30 @@
+.section_card_decription{
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22.27px;
+    align-items: center;
+    color: #FFFFFF ;
+}
+
+.contribute_text{
+    font-weight: 200;
+    font-size: 42px;
+    line-height: 48px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.contribute_description{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.section_M{
+    font-weight: 200;
+    font-size: 80px;
+    line-height: 17.57px;
+    color: #FFFFFF;
+}
